@@ -1,0 +1,6 @@
+{
+  "feedback_id": "{{#guid}}",
+  "comentario": "",
+  "classificacao": "{{#number, 1, 5}}",
+  "informacoes_produto": ""
+}
